@@ -1,0 +1,29 @@
+$ git clone https://github.com/vinnakota8790/PracticeRepo.git -b prod --single-branch
+
+
+git Git Commands
+1.cd- Change Directory.
+
+2.mkdir- To Create new folder.
+
+3.git status- To know the current brach is upto date or any file created, modified or deleted.
+
+4.git clone-
+
+5.git init-
+
+6.git remote -v
+
+7.git remote add oringin URL link
+
+8.git config --user.email"".""
+
+9.git add *
+
+10.git restore --staged
+
+11.git commit -m"JIRA-100 commit msg"
+
+12.git pull --all
+
+13.https://github.com/vinnakota8790/PracticeRepo.git
